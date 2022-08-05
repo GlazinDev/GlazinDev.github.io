@@ -1,0 +1,9 @@
+.vagona{
+    width:400px;
+    height:400px;
+    border-radius:15%;
+    -webkit-user-drag:none;
+}
+body{
+    font-family:"Minecraftia";
+}
